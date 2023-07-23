@@ -2,7 +2,7 @@
 #include "holberton.h"
 
 /**
- * **alloc_grid - creates a two dimensional array of ints
+ * alloc_grid - creates a two dimensional array of ints
  * @width: width of the matrix
  * @height: height of the matrix
  *
